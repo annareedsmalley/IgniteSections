@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IgniteSections/loginViewController.swift"
+            timestampString = "468909244.671898"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.__deallocating_deinit"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468909244.675503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.init (IgniteSections.loginViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; IgniteSections.loginViewController"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468909244.67568"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.init (IgniteSections.loginViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;IgniteSections.loginViewController&gt;"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468909244.675817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IgniteSections/loginViewController.swift"
+            timestampString = "468988459.203784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loginViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IgniteSections/loginViewController.swift"
+            timestampString = "468988459.203784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "keyboardWillHide(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IgniteSections/loginViewController.swift"
+            timestampString = "468987907.391086"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.initialY.getter : Swift.ImplicitlyUnwrappedOptional&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468987146.585148"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.initialY.setter : Swift.ImplicitlyUnwrappedOptional&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468987146.585327"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.initialY.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;CoreGraphics.CGFloat&gt;"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468987146.585428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.init (IgniteSections.loginViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; IgniteSections.loginViewController"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468987146.58555"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "493">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IgniteSections.loginViewController.init (IgniteSections.loginViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;IgniteSections.loginViewController&gt;"
+                  moduleName = "IgniteSections"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a0small/Documents/IgniteSections/IgniteSections/loginViewController.swift"
+                  timestampString = "468987146.585646"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "398">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
